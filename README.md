@@ -3,9 +3,7 @@ This project is a classic Library Management System. The application is created 
 
 ## How to execute?
 Go inside scripts folder and run the **main.py** file.
-
-## Project Complexity
-Based upon the building experience, I would rate it as **Easy**. Anyone who is learning Python or has learnt Python but want to build something can build this. 
+ 
 
 ## Python Modules Used
 1. csv
